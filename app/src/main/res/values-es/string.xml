@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bill_amount">Cantidad de la Cuenta</string>
+    <string name="number_of_diners">Número de Comensales</string>
+    <string name="round_tip">Redondear propina</string>
+    <string name="tip_percentage">Porcentaje de propina: %1$d%%</string>
+    <string name="calculate">Calcular</string>
+    <string name="total_to_pay">Total a pagar: $%1$.2f</string>
+    <string name="each_pays">Cada uno paga: $%1$.2f</string>
+</resources>

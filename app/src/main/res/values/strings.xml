@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">DividirCuentas</string>
+
+        <string name="bill_amount">Bill Amount</string>
+        <string name="number_of_diners">Number of Diners</string>
+        <string name="round_tip">Round tip</string>
+        <string name="tip_percentage">Tip percentage: %1$d%%</string>
+        <string name="calculate">Calculate</string>
+        <string name="total_to_pay">Total to pay: $%1$.2f</string>
+        <string name="each_pays">Each pays: $%1$.2f</string>
+</resources>
